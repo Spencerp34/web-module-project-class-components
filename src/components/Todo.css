@@ -1,0 +1,16 @@
+.complete{
+    text-decoration: line-through;
+    color: red;
+}
+
+.task{
+    padding: 10px;
+    background-color: aquamarine;
+    border: black;
+    width: 10%;
+    margin: 15px;
+}
+
+.todo-list{
+    background-color: #EFEFEF;
+}
